@@ -443,11 +443,6 @@ export default function App() {
           />
         )}
       </main>
-
-      <footer className="text-center py-4 text-sm text-slate-400 border-t border-slate-200 bg-white/50">
-        <p>🌍 All In One Dictionary — Offline Multilingual Smart Dictionary</p>
-        <p className="mt-1">45+ words · 30+ phrases · 12 languages · Voice input · 100% offline</p>
-      </footer>
     </div>
   );
 }
