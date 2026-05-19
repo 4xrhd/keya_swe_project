@@ -107,7 +107,10 @@ keya/
     ├── README.md                # Documentation overview
     ├── 8.System_Architecture.md # High-level architecture breakdown
     ├── 9.Setup_and_Run.md       # Interactive environment setup guide
-    └── 11.SRS_Report.md         # Full IEEE System Requirements Specification
+    ├── 11.SRS_Report.md         # Full IEEE System Requirements Specification
+    ├── 12.Project_Report.md     # Full System Design & Development Project Report
+    ├── 13.University_Justification_Form.md # University Project Justification Form (OBE/CEP)
+    └── 14.References.md         # Annotated Academic & Technical Master References
 ```
 
 ---
@@ -116,3 +119,14 @@ keya/
 
 *   **Self-Contained Inlining**: The production build is compiled into a **single `index.html` file** (using `vite-plugin-singlefile`) making it completely portable, easy to distribute, and deployable instantly on any static web host.
 *   **Privacy-Friendly**: Translation operations and history are stored fully locally within your browser's private sandbox storage, with external traffic only being dispatched to MyMemory for online translation fallbacks.
+
+---
+
+## 📚 Project Documentation & References
+
+Keya includes extensive academic and technical documentation mapping out functional schemas, architecture diagrams, and verification benchmarks. For a complete listing of academic citations, web standards, and Outcome-Based Education (OBE) reference works, see:
+*   [Master Project References File](documentation/14.References.md)
+*   [SRS Report - Section 1.5 References](documentation/11.SRS_Report.md#15-references)
+*   [Project Report - Section 6.3 References](documentation/12.Project_Report.md#63-references)
+*   [University Justification Form - Section 7 References](documentation/13.University_Justification_Form.md#%F0%9F%93%9A-section-7-references)
+

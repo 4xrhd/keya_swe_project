@@ -14,6 +14,9 @@ This folder contains complete technical documentation for the **All In One Dicti
 9. [Setup and Run Guide](./9.Setup_and_Run.md)
 10. [Feature Documentation](./10.Feature_Documentation.md)
 11. [SRS Report](./11.SRS_Report.md)
+12. [Project Report](./12.Project_Report.md)
+13. [University Justification Form](./13.University_Justification_Form.md)
+14. [Master Project References](./14.References.md)
 
 ## Project Summary
 - **Type:** Frontend-only offline dictionary and translator
